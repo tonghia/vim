@@ -16,8 +16,6 @@ set showmatch " highlight matching
 set tabstop=4 " Number of spacetab is counted for.
 set expandtab " Expand tabs to spaces.
 
-colorscheme pablo " Change a colorscheme.
-
 set incsearch " search as characters are entered
 set hlsearch " highlight matches
 set wildignore+=node_modules/**
@@ -42,3 +40,9 @@ let g:easyescape_chars = { "j": 1, "k": 1 }
 let g:easyescape_timeout = 100
 cnoremap jk <ESC>
 cnoremap kj <ESC>
+
+" theme
+packadd! dracula
+syntax enable
+colorscheme dracula
+
