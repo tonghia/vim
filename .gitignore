@@ -1,5 +1,7 @@
-./pack/plugins/start
-./pack/themes/start
+pack/plugins/start/*
+pack/themes/start/*
+pack/dist/start/*
 
 .netrwhist
 backup
+sessions
