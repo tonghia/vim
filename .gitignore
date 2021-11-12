@@ -1,6 +1,6 @@
-pack/plugins/start/*
-pack/themes/start/*
-pack/dist/start/*
+pack/plugins/start/
+pack/themes/start/
+pack/dist/start/
 
 .netrwhist
 backup
