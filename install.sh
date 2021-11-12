@@ -1,6 +1,8 @@
 #!/bin/bash
 
 function getGitPlugin {
+    # Ref clone or pull https://gist.github.com/nicferrier/2277987
+    # Ref shallow clone https://www.perforce.com/blog/vcs/git-beyond-basics-using-shallow-clones
     REPO=$1
     LOCAL_DIR=$2
 
