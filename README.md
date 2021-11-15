@@ -1,10 +1,16 @@
 # vim
 My vim setting
 
-# Replace .vỉmc ưith .vim/vỉmc
+# Replace .vimrc ưith .vim/vimrc
 $ cd ~
 $ mkdir -p ~/.vim
 $ cd .vim
 $ ./íntall.sh
 
-
+# Dependencies
+## deoplete
+https://github.com/Shougo/deoplete.nvim
+pip|pip3 packages:
+- pip install msgpack
+- pip3 install --user pynvim
+- pip3 install --user --upgrade pynvim

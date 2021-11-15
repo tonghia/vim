@@ -20,5 +20,5 @@ getGitPlugin https://github.com/Shougo/deoplete.nvim ~/.vim/pack/plugins/start/d
 getGitPlugin https://github.com/roxma/nvim-yarp ~/.vim/pack/plugins/start/nvim-yarp # deoplete dep
 getGitPlugin https://github.com/majutsushi/tagbar ~/.vim/pack/plugins/start/tagbar
 getGitPlugin https://github.com/zhou13/vim-easyescape ~/.vim/pack/plugins/start/vim-easyescape
-getGitPlugin https://github.com/fatih/vim-go ~/.vim/pack/plugins/start/vim-go
+getGitPlugin https://github.com/fatih/vim-go ~/.vim/pack/plugins/start/vim-go # TODO: use args to control language support
 getGitPlugin https://github.com/roxma/vim-hug-neovim-rpc ~/.vim/pack/plugins/start/vim-hug-neovim-rpc # deoplete dep
