@@ -2,6 +2,10 @@ pack/plugins/start/
 pack/themes/start/
 pack/dist/start/
 
+ftdetect/scala.vim
+indent/scala.vim
+syntax/scala.vim
+
 .netrwhist
 backup
 sessions
