@@ -26,6 +26,12 @@ set foldlevelstart=10 " open most folds by default
 set foldnestmax=10 " 10 nested fold max
 set foldmethod=indent " fold based on indent level
 
+" my leader maps
+let mapleader = "," " map leader to comma
+nnoremap <leader>qw" ciw""<Esc>P
+nnoremap <leader>qw' ciw''<Esc>P
+nnoremap <leader>qw` ciw``<Esc>P
+
 let g:deoplete#enable_at_startup = 1
 
 nmap <F8> :TagbarToggle<CR>
