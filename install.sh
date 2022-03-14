@@ -24,4 +24,4 @@ getGitPlugin https://github.com/fatih/vim-go ~/.vim/pack/plugins/start/vim-go # 
 getGitPlugin https://github.com/roxma/vim-hug-neovim-rpc ~/.vim/pack/plugins/start/vim-hug-neovim-rpc # deoplete dep
 
 # scala
-for d in ftdetect indent syntax ; do wget -O ./$d/scala.vim https://raw.githubusercontent.com/derekwyatt/vim-scala/master/$d/scala.vim; done
+# for d in ftdetect indent syntax ; do wget -O ./$d/scala.vim https://raw.githubusercontent.com/derekwyatt/vim-scala/master/$d/scala.vim; done
