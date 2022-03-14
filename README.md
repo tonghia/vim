@@ -6,6 +6,7 @@ My vim setting
 
 ```sh
 mkdir -p ~/.vim
+
 ~/.vim/install.sh
 ```
 
