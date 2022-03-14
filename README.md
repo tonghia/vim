@@ -2,10 +2,12 @@
 My vim setting
 
 # Replace .vimrc ưith .vim/vimrc
+```
 $ cd ~
 $ mkdir -p ~/.vim
 $ cd .vim
-$ ./íntall.sh
+$ ./install.sh
+```
 
 # Dependencies
 ## deoplete
